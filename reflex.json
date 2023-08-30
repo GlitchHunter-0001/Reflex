@@ -1,0 +1,152 @@
+{
+    "name": "REFLEX",
+    "description": "Just a clean dark theme by Glitch Hunter.",
+    "authors": [
+        {
+            "name": "Glitch Hunter",
+            "id": "979205651974725632"
+        }
+    ],
+    "semanticColors": {
+      "HEADER_PRIMARY": [
+          "#FFFFFF"
+      ],
+      "HEADER_SECONDARY": [
+          "#FFFFFF"
+      ],
+      "TEXT_NORMAL": [
+          "#FFFFFF"
+      ],
+      "TEXT_MUTED": [
+          "#5E5E5E"
+      ],
+      "TEXT_LINK": [
+          "#00b0f4"
+      ],
+      "INTERACTIVE_NORMAL": [
+          "#AFAFAF"
+      ],
+      "INTERACTIVE_HOVER": [
+          "#FFFFFF"
+      ],
+      "INTERACTIVE_ACTIVE": [
+          "#FFFFFF"
+      ],
+      "INTERACTIVE_MUTED": [
+          "#bfbfbf" 
+      ],
+      "BACKGROUND_PRIMARY": [
+          "#111111"
+      ],
+      "BACKGROUND_SECONDARY": [
+          "#171717"
+      ],
+      "BACKGROUND_SECONDARY_ALT": [
+          "#171717"
+      ],
+      "BACKGROUND_TERTIARY": [
+          "#0c0c0c"
+      ],
+      "BACKGROUND_ACCENT": [
+          "#111110"
+      ],
+      "BACKGROUND_FLOATING": [
+          "#111111"
+      ],
+      "BACKGROUND_MOBILE_PRIMARY": [
+          "#111111"
+      ],
+      "BACKGROUND_MOBILE_SECONDARY": [
+          "#111111"
+      ],
+      "BACKGROUND_NESTED_FLOATING": [
+          "#111111"
+      ],
+     
+      "BACKGROUND_MESSAGE_HOVER": [
+          "#111111"
+      ],
+      "BACKGROUND_MODIFIER_HOVER": [
+          "#111111"
+      ],
+      "BACKGROUND_MODIFIER_ACTIVE": [
+          "#585858"
+      ],
+      "BACKGROUND_MODIFIER_SELECTED": [
+          "#585858"
+      ],
+      "BACKGROUND_MODIFIER_ACCENT": [
+          "#111111"
+      ],
+      "SCROLLBAR_THIN_THUMB": [
+          "#303030"
+      ],
+      "SCROLLBAR_THIN_TRACK": [
+          "transparent"
+      ],
+      "SCROLLBAR_AUTO_THUMB": [
+          "#c6c6c6"
+      ],
+      "SCROLLBAR_AUTO_TRACK": [
+          "#c6c6c6"
+      ],
+      "CHANNELTEXTAREA_BACKGROUND": [
+          "#2b2b2b"
+      ],
+      "CHANNELS_DEFAULT": [
+          "#8a8a8a"
+      ],
+      "TEXT_DANGER": [
+          "#cc0000"
+      ],
+      "KEYBOARD": [
+          "#111111"
+      ],
+      "CHANNEL_ICON": [
+          "#bcbcbc"
+      ],
+      "CHAT_BACKGROUND": [
+          "#111111"
+      ],
+      "SPOILER_HIDDEN_BACKGROUND": [
+        "#4B4B4B"
+      ],
+      "SPOILER_REVEALED_BACKGROUND": [
+        "#5E5E5E"
+      ]
+  },
+  "rawColors": {
+      "PRIMARY_100": "#ebebeb",
+      "PRIMARY_200": "#858585",
+      "PRIMARY_300": "#a3a3a3",
+      "PRIMARY_360": "#b1b1b1",
+      "PRIMARY_400": "#818181",
+      "PRIMARY_500": "#555555",
+      "PRIMARY_600": "#111111",
+      "PRIMARY_630": "#2f2f2f",
+      "PRIMARY_660": "#222222",
+      "PRIMARY_700": "#111111",
+      "PRIMARY_800": "#111111",
+  
+      "BRAND_260": "#7b7b7b",
+      "BRAND_360": "#b3b3b3",
+      "BRAND_500": "#7b7b7b",
+      "BRAND_560": "#b3b3b3",
+      "WHITE_500": "#e1e1e1",
+      "YELLOW_300": "#00ffff",
+      "GREEN_360": "#00ff00",
+      "RED_400": "#cc0000"
+},
+    "spec": 2,
+    "background": {
+      "blur": 0,
+      "url": "https://cdn.discordapp.com/attachments/1050961581820874835/1146101872596357210/IMG_0362.jpg",
+      "alpha": 0.9,
+      "color": "#171717"
+  
+    },
+    "plus":{
+        "version":"0",
+        "iconpack":"rosiecord-plumpy"
+    }
+}
